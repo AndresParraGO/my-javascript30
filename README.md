@@ -11,5 +11,5 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 * [x] 01. JavaScript Drum Kit - [Preview](https://andresparrago.github.io/my-javascript30/01%20-%20JavaScript%20Drum%20Kit/) | [Code](https://github.com/AndresParraGO/my-javascript30/tree/main/01%20-%20JavaScript%20Drum%20Kit)
 
-* [x] 02. CSS + JS Clock - [Preview]() | [Code]()
+* [x] 02. CSS + JS Clock - [Preview](https://andresparrago.github.io/my-javascript30/02%20-%20CSS%20+%20JS%20Clock/) | [Code](https://github.com/AndresParraGO/my-javascript30/tree/main/02%20-%20CSS%20%2B%20JS%20Clock)
 
