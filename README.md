@@ -13,6 +13,6 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 * [x] 02. CSS + JS Clock - [Preview](https://andresparrago.github.io/my-javascript30/02%20-%20CSS%20+%20JS%20Clock/) | [Code](https://github.com/AndresParraGO/my-javascript30/tree/main/02%20-%20CSS%20%2B%20JS%20Clock)
 
-* [x] 03. Playing With CSS Varible and JS - [Preview](https://andresparrago.github.io/my-javascript30/03%20-%20Playing%20With%20CSS%20Variable%20and%20JS/) | [Code](https://github.com/AndresParraGO/my-javascript30/tree/main/03%20-%20Playing%20With%20CSS%20Variable%20and%20JS/)
+* [x] 03. Playing With CSS Varible and JS - [Preview](https://andresparrago.github.io/my-javascript30/03%20-%20Playing%20With%20CSS%20Variable%20and%20JS/index.html) | [Code](https://github.com/AndresParraGO/my-javascript30/tree/main/03%20-%20Playing%20With%20CSS%20Variable%20and%20JS/)
 
 
